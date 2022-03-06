@@ -28,25 +28,5 @@
       "fecha_de_envio_a_st":"16/01/2022",
       "fecha_de_recepción":"20/02/2022",
       "fecha_de_reparación":"25/02/2022"
-   },
-   {
-      "numero_de_caso":"WCL-030322-110319",
-      "cliente_st":"MARCO VERGARA",
-      "estado":"En Servicio Técnico",
-      "tipo_de_resolucion":"Producto reparado",
-      "fecha_de_creacion":"12/01/2022",
-      "fecha_de_envio_a_st":"16/01/2022",
-      "fecha_de_recepción":"20/02/2022",
-      "fecha_de_reparación":"25/02/2022"
-   },
-   {
-      "numero_de_caso":"WCL-030322-110319",
-      "cliente_st":"MARCO VERGARA",
-      "estado":"En Servicio Técnico",
-      "tipo_de_resolucion":"Producto reparado",
-      "fecha_de_creacion":"12/01/2022",
-      "fecha_de_envio_a_st":"16/01/2022",
-      "fecha_de_recepción":"20/02/2022",
-      "fecha_de_reparación":"25/02/2022"
    }
 ]
